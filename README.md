@@ -8,7 +8,7 @@
 - [Виктор Фабриченко](https://github.com/vfabr)
 - [Филипп Дельгядо](https://github.com/phillip-delgyado)
 - [Виталий Шароватов](https://github.com/sharovatov)
-- [Лиза Царева] (https://github.com/picksi7/works)
+- Лиза Царева
 - [Иван Чернов](https://github.com/vanadium23)
 - [Андрей Бутов](https://github.com/abtv)
 - [Вячеслав Ковалев](https://github.com/materkey)
